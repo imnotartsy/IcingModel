@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IsPy Package
 The Ising Python package (IsPy) provides implementation of four different Monte Carlo algorithms that simulates the Ising model of solids: Metropolis, Glauber, Wolff, and Cluster Heat Bath algorithms. It simulates how solids relax in low temperatures to aligned/anti-aligned spins. 
 This code is flexible enough to be used for square and non-square lattices. This code relies on numpy and SciPy for array generation/random number generation and the Boltzmann constant. 
@@ -25,6 +24,4 @@ This package is released under the MIT License. See the LICENSE file for more in
 
 Contributing
 If you find a bug or would like to contribute to the package, please open an issue or pull request on the GitHub repository. We’ll make sure to respond immediately.
-=======
-# IsingModel
->>>>>>> aa2bb4b01be803328a54fbcece4e476aa93657a3
+
