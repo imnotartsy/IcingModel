@@ -1,1 +1,1 @@
-# IcingModel
+# IsingModel
